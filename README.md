@@ -54,4 +54,4 @@ See [`output/briefing_report.md`](output/briefing_report.md) for a full example 
 
 ## What I learned
 
-This was my first project working with SQL joins, aggregate functions, and window function style logic. I later simplified some of the logic into Python to make the project easier to understand. It was also my first time integrating an LLM API into a data pipeline, which gave me hands-on experience with using AI while still keeping the results grounded in the underlying data.
+This was my first project working with SQL joins, aggregate functions, and window function style logic. I later simplified some of the logic in Python to make the project easier to understand. It was also my first time integrating an LLM API into a data pipeline, which gave me hands-on experience with using AI while still keeping the results grounded in the underlying data.
